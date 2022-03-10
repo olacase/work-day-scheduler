@@ -9,4 +9,19 @@
 code to create and organize a daily work schedule from 9am to 5pm.
 
 ## Installation
-![Directions for use] Click on the url  
+![Directions for use] Click on the url  https://olacase.github.io/work-day-scheduler/
+
+## Usage
+organize daily to do list
+
+## Tools
+HTML
+CSS
+JavaScript
+Moment.JS
+
+## Contributions
+none at the moment
+
+## Tests
+none
