@@ -14,8 +14,9 @@ $(document).ready(function() {
 
     setTimeout(function () {
         $('.notification').removeClass('show');
-    
+    console.log("timeout fnctn")
     }, 3000);
+
     });
 
     // #3 make a function that updates the time block with local time and link CSS displaying current time color-codes

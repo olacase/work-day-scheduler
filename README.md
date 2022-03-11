@@ -1,7 +1,7 @@
 # work-day-scheduler
 [githun=b](https://github.com/olacase/work-day-scheduler)
 
-![image] ./
+![image](assets/images/screen.PNG)
 
 ## Table of contents
 
@@ -18,6 +18,7 @@ organize daily to do list
 HTML
 CSS
 JavaScript
+Bootstrap
 Moment.JS
 
 ## Contributions
